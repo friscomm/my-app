@@ -1,0 +1,7 @@
+META-INF/native-image/picocli-generated/com.mycompany.app/my-app/reflect-config.json
+com/frisco/javacourse/lesson2/Person.class
+com/mycompany/pico/SearchCommand.class
+com/frisco/javacourse/lesson3/Name.class
+META-INF/native-image/picocli-generated/com.mycompany.app/my-app/proxy-config.json
+com/mycompany/app/App.class
+META-INF/native-image/picocli-generated/com.mycompany.app/my-app/resource-config.json
